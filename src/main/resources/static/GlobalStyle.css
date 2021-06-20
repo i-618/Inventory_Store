@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+
+
+.parent {
+	display:  grid;
+	grid-template-columns: auto auto;
+	
+	
+}
+
+.child {
+	
+}
